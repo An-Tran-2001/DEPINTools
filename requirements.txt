@@ -1,0 +1,6 @@
+
+PySide6==6.8.0.2
+SQLAlchemy==2.0.36
+pydantic==2.10.2
+alembic==1.14.0
+psycopg2==2.9.10
