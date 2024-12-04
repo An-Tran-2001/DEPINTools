@@ -1,0 +1,10 @@
+{
+    "files": [
+        "main.py",
+        "ui/interface.ui",
+        "Qss/icons/_icons.qrc",
+        "src/ui_interface.py",
+        "src/functions.py",
+        "json-styles/style.json"
+    ]
+}
