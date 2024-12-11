@@ -74,18 +74,6 @@ Our team is committed to delivering these features in upcoming releases to meet 
 2. **Check Tags in Release Notes**  
    - **Important!** Make sure to review the tags in the release notes to identify key changes, known issues, or updates to the setup process.  
 3. **Configure** your NodePay account and proxy settings with our easy-to-follow setup guide.  
-4. **Activate Automation** and enjoy hassle-free, continuous management of your node.  
-
-For assistance, reach us at **support@depintools.com** or join the conversation on Discord.  
+4. **Activate Automation** and enjoy hassle-free, continuous management of your node.    
 
 ---
-
-### **Why DEPIN_Tools?**  
-
-Developed by a team of Web3 and decentralized infrastructure experts, DEPIN_Tools is your trusted partner for simplifying node management.  
-
-With features that prioritize **efficiency**, **privacy**, and **scalability**, DEPIN_Tools empowers you to achieve maximum results with minimum effort.  
-
-> *"Automation is key to the future. DEPIN_Tools simplifies your path to success."*  
-
-Join us on this exciting journey as we revolutionize the decentralized infrastructure experience!
