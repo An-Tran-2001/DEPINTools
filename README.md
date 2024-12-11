@@ -70,7 +70,7 @@ Our team is committed to delivering these features in upcoming releases to meet 
 
 ### **How to Get Started**  
 
-1. **Download** the DEPIN_Tools **v0.0.0.1.dev1** release on **December 18, 2024**.  
+1. **Download** the DEPIN_Tools versions in release tags.  
 2. **Check Tags in Release Notes**  
    - **Important!** Make sure to review the tags in the release notes to identify key changes, known issues, or updates to the setup process.  
 3. **Configure** your NodePay account and proxy settings with our easy-to-follow setup guide.  
