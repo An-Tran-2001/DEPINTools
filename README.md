@@ -1,69 +1,91 @@
-"""
-# DEPIN_Tools v0.0.0.1.dev1 🚀
+# DEPIN_Tools v0.0.0.1.dev1 🚀  
 
-*Simplifying and automating DePIN networks for everyone.*
-
----
-
-### **Introduction**
-Welcome to **DEPIN_Tools**, the all-in-one solution for enhancing your decentralized infrastructure experience.
-Our **first feature**, launching with **v0.0.0.1.dev1**, is a **cutting-edge automation tool for NodePay**, designed to streamline node deployment and management.
-
-This release is the foundation of a broader roadmap that will empower users to efficiently manage and optimize their participation in NodePay and beyond.
-
-**Anticipated Release Date**: **December 18, 2024** 🎉
+*Simplifying and automating DePIN networks for everyone.*  
 
 ---
 
-### **Key Benefits**
+### **Introduction**  
 
-1. **Seamless Automation**
-   - Fully automate NodePay node operations, reducing manual effort and maximizing uptime.
+Welcome to **DEPIN_Tools**, your all-in-one solution for enhancing decentralized infrastructure workflows.  
 
-2. **Stealth Mode Enabled**
-   - Enhanced configurations to minimize detection by NodePay, ensuring your operations remain discreet.
-
-3. **Flexible Node Management**
-   - Adapt quickly to changes in network conditions with advanced, customizable settings.
-
-4. **Future Expansion**
-   - Our vision includes support for additional DePIN projects and robust automation features, making DEPIN_Tools your ultimate toolkit for decentralized networks.
+With our **pre-release v0.0.0.1.dev1**, we've introduced game-changing capabilities to streamline **NodePay** operations. Whether you're managing nodes or optimizing automation, this release lays the groundwork for a seamless, powerful experience.  
 
 ---
 
-### **Upcoming Features**
+### **What's New in v0.0.0.1.dev1?**  
 
-🔮 **Planned Enhancements**:
-- **Multi-project support** for popular DePIN networks.
-- **Advanced automation capabilities**, including task scheduling and performance analytics.
-- **User-friendly dashboards** for real-time node monitoring and control.
+1. **NodePay Automation Made Easy**  
+   - Fully automate NodePay node operations with a simple setup for **one account**, minimizing manual input and maximizing efficiency.  
 
-We are committed to providing regular updates to meet the evolving demands of the DePIN ecosystem.
-
----
-
-![Nodepay Login Action](images/loginNP.png)
-![Nodepay Login Action](images/dashBoardNP.png)
-*Illustration: Simplified workflows and advanced automation for NodePay.*
+2. **Streamlined Proxy Integration**  
+   - Automatically configure proxy settings for seamless NodePay performance, ensuring smooth operations in any environment.  
 
 ---
 
-### **How to Get Started**
+### **Key Benefits**  
 
-1. Download the DEPIN_Tools v0.0.0.1.dev1 release on **December 18, 2024**.
-2. Follow the included setup guide to configure your NodePay nodes.
-3. Experience the power of automation and seamless management.
+- **Simplified Management**  
+  Automate and optimize NodePay for one account with minimal effort.  
 
-For support or inquiries, please contact us at **support@depintools.com** or join our vibrant community on Discord.
+- **Enhanced Performance**  
+  With integrated proxy support, you can ensure reliable, uninterrupted node operations.  
+
+- **Future-Proof Design**  
+  This release is the foundation for more advanced features in upcoming versions, ensuring a scalable and future-ready solution.  
 
 ---
 
-### **Why Choose DEPIN_Tools?**
+### **What's Coming Next?**  
 
-Built by experts in Web3 and decentralized infrastructure, DEPIN_Tools aims to revolutionize the way you interact with DePIN networks.
-With **automation**, **privacy**, and **flexibility** at its core, DEPIN_Tools empowers you to achieve more with less effort.
+🔮 **Upcoming Features in Future Versions**:  
 
-> *"Automation is the future. Simplify your journey with DEPIN_Tools."*
+- **Multi-Account Support**  
+  - Effortlessly manage and log in to **multiple NodePay accounts** from a single interface.  
+  - Customize proxy assignments for each account to optimize performance.  
 
-Stay tuned for future updates as we expand support for more DePIN projects and introduce innovative features to meet your evolving needs!
-"""
+- **Per-Account Proxy Management**  
+  - Automatically allocate **dedicated proxies** for each account, ensuring privacy and performance for concurrent operations.  
+
+- **Advanced Automation**  
+  - Continuous task execution and scheduling for non-stop node management.  
+
+Our team is committed to delivering these features in upcoming releases to meet the needs of advanced users and provide a truly comprehensive solution.  
+
+---
+
+### **Illustrations**  
+
+![NodePay Single-Account Automation](images/loginNP.png)  
+![NodePay Dashboard with Proxy Integration](images/dashBoardNP.png)  
+*Simplified workflows and enhanced features for NodePay automation.*  
+
+---
+
+### **Video Demo**  
+
+▶️ **[Watch the Demo](images/video-demo.mp4)**  
+*See how DEPIN_Tools revolutionizes NodePay management with step-by-step instructions and a live walkthrough.*  
+
+---
+
+### **How to Get Started**  
+
+1. **Download** the DEPIN_Tools **v0.0.0.1.dev1** release on **December 18, 2024**.  
+2. **Check Tags in Release Notes**  
+   - **Important!** Make sure to review the tags in the release notes to identify key changes, known issues, or updates to the setup process.  
+3. **Configure** your NodePay account and proxy settings with our easy-to-follow setup guide.  
+4. **Activate Automation** and enjoy hassle-free, continuous management of your node.  
+
+For assistance, reach us at **support@depintools.com** or join the conversation on Discord.  
+
+---
+
+### **Why DEPIN_Tools?**  
+
+Developed by a team of Web3 and decentralized infrastructure experts, DEPIN_Tools is your trusted partner for simplifying node management.  
+
+With features that prioritize **efficiency**, **privacy**, and **scalability**, DEPIN_Tools empowers you to achieve maximum results with minimum effort.  
+
+> *"Automation is key to the future. DEPIN_Tools simplifies your path to success."*  
+
+Join us on this exciting journey as we revolutionize the decentralized infrastructure experience!
